@@ -4,6 +4,12 @@ class hello
 	{
 		System.out.println("welcome");
 		System.out.println("hello");
+		System.out.println("world");
+
+
+
+
+
 
 	}
 }
